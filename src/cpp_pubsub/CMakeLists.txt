@@ -7,12 +7,13 @@ endif()
 
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
-find_package(std_msgs REQUIRED)
+# find_package(std_msgs REQUIRED) #Sebelum pake interface
+find_package(tutorial_interfaces REQUIRED)
 
 add_executable(talker src/publisher_member_function.cpp)
 add_executable(receiver src/subscriber_member_function.cpp)
-ament_target_dependencies(talker rclcpp std_msgs)
-ament_target_dependencies(receiver rclcpp std_msgs)
+ament_target_dependencies(talker rclcpp tutorial_interfaces)
+ament_target_dependencies(receiver rclcpp tutorial_interfaces)
 
 install(TARGETS
   talker
