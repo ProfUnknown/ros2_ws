@@ -1,0 +1,30 @@
+[0.013s] Invoking command in '/home/akiratanaya/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/akiratanaya/ros2_ws/build/cpp_pubsub -- -j16 -l16
+[0.055s] [ 50%] [32mBuilding CXX object CMakeFiles/receiver.dir/src/subscriber_member_function.cpp.o[0m
+[0.055s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[3.306s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[3.455s] [ 75%] Built target talker
+[5.906s] [100%] [32m[1mLinking CXX executable receiver[0m
+[6.148s] [100%] Built target receiver
+[6.158s] Invoked command in '/home/akiratanaya/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/akiratanaya/ros2_ws/build/cpp_pubsub -- -j16 -l16
+[6.160s] Invoking command in '/home/akiratanaya/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/akiratanaya/ros2_ws/build/cpp_pubsub
+[6.166s] -- Install configuration: ""
+[6.166s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+[6.167s] -- Set runtime path of "/home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[6.167s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/receiver
+[6.170s] -- Set runtime path of "/home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/receiver" to ""
+[6.170s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[6.171s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[6.172s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[6.172s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[6.172s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[6.172s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[6.172s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[6.172s] -- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[6.174s] Invoked command in '/home/akiratanaya/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/akiratanaya/ros2_ws/build/cpp_pubsub

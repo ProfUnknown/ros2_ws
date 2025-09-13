@@ -1,0 +1,26 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/receiver.dir/src/subscriber_member_function.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable talker[0m
+[ 75%] Built target talker
+[100%] [32m[1mLinking CXX executable receiver[0m
+[100%] Built target receiver
+-- Install configuration: ""
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+-- Set runtime path of "/home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/receiver
+-- Set runtime path of "/home/akiratanaya/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/receiver" to ""
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+-- Installing: /home/akiratanaya/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
